@@ -1,6 +1,12 @@
 # Popup-Message-Prank
 This is a project of mine which is made in VB Script. I made this project over a year back when I was a newbie in coding. I started doing VB Script. You can also edit this file and modify according to your wish. You can prank your friends, by inserting this in their pc.
 
+# Installation
+--> To install it use the git clone command 
+
+`https://github.com/kavinjindal/Popup-Message-Prank.git`
+
+--> Or Download it as **ZIP**
 # About
 --> To run this script, you have to click on the program, and popup will start to appear, you can't cross any of them and you will have to respond to every popup. 
 
@@ -22,3 +28,22 @@ This is a project of mine which is made in VB Script. I made this project over a
 
 --> No matter if you click Yes or No, but you will not be able to cross the popups. 
 
+--> You can edit the file from source.txt file and make changes according to your choice. But to execute it make sure to save it with a **.vbs** extension in the end or else it will open as a text file. 
+
+# Queries, Suggestions:
+
+-->  You can report your issues here:
+* https://github.com/kavinjindal/Popup-Message-Prank/issues
+
+--> Or you can contact me on email here:
+* kavinsjindal@gmail.com
+
+# Website:
+
+--> https://kavinjindal17.wordpress.com/
+
+# Discord Server:
+
+--> https://discord.gg/fSzsGus
+
+# MADE BY KAVIN JINDAL :metal:
